@@ -6,6 +6,8 @@
 
 int printvalue()
 {
+  foo();
+  TestFunc();
   printf("%d", a);
 }
  

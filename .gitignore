@@ -1,5 +1,8 @@
 **/build
 
+*.i
+*.s
+
 # Prerequisites
 *.d
 
